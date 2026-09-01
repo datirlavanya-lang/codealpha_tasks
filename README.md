@@ -55,4 +55,4 @@ GitHub Pages.
 
 ## Author
 
-Built by [Lavanya Datir] as part of learning frontend development with React.
+Built by Lavanya Datir as part of learning frontend development with React.
